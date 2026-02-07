@@ -1,6 +1,6 @@
 // lib/features/favourite/favourite_screen.dart
 import 'package:flutter/material.dart';
-import 'package:project_10/core/theme/app_text_styles.dart';
+import 'package:project_10/core/app_text_styles.dart';
 import 'package:project_10/features/home/widgets/custome_food_card.dart';
 
 class FavouriteScreen extends StatefulWidget {

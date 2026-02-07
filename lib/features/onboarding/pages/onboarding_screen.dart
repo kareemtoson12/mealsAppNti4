@@ -1,9 +1,9 @@
 // lib/features/onboarding/onboarding_screen.dart
 import 'package:flutter/material.dart';
 import 'package:project_10/core/widgets/custome_button.dart';
-import 'package:project_10/features/auth/pages/login_screen.dart';
-import 'package:project_10/core/theme/app_colors.dart';
-import 'package:project_10/core/theme/app_text_styles.dart';
+import 'package:project_10/features/auth/login/login_screen.dart';
+import 'package:project_10/core/app_colors.dart';
+import 'package:project_10/core/app_text_styles.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});
